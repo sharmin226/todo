@@ -1,0 +1,17 @@
+
+Todo Apps
+======================
+
+	Features:
+		- Todo List
+			- Title
+			- Description 
+			- Reminder Time
+		- A single todo item
+		- Add a todo item
+		- Edit a todo item 
+		- Delete a todo item
+
+
+	Integration:
+		- Use bootstrap
